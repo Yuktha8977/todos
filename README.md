@@ -1,3 +1,2 @@
 # todos
-this is an example repository.
-basic example for edit
+this is my first Git repository
